@@ -118,6 +118,7 @@ a {
 			.button {
 				font-size: .8em;
 				margin-left: .5em;
+				color: white;
 			}
 		}
 	}
@@ -278,7 +279,10 @@ a {
 	color: #FFF;
 	text-decoration: none;
 	transition: all .4s ease;
-	padding-left: 1em;
+	padding-left: 3em;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	list-style-type: none;
 }
 
 .body {
